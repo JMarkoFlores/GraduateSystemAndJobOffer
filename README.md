@@ -16,3 +16,9 @@ Si ya existe la base de datos y quieres cargar o reponer las cuentas de prueba:
 cd backend
 npm run seed:users
 ```
+
+1. URL del backend:
+   https://graduatesystemandjoboffer.onrender.com
+
+2. URL del frontend:
+   https://graduatesystemandjoboffer-1.onrender.com/
